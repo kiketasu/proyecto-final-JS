@@ -1,0 +1,9 @@
+/* CAJA OCULTA HASTA QUE NO SE TERMINA DE RELLENAR LOS DATOS DEL CURRICULUM */
+.cuerpo{
+    margin-left: 300px;
+    background-color: beige;
+    padding: 5%;
+    width: 800px;
+    height: fit-content; /*LO HACE TAN LARGA COMO SEA NECESARIO (DATOS)*/
+    display: none; /*ESTO LO HACE OCULTA*/
+}
